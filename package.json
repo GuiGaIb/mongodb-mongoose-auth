@@ -1,0 +1,25 @@
+{
+  "name": "mongodb-mongoose-auth",
+  "version": "1.0.0",
+  "description": "MongoDb user and session management implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiGaIb/mongodb-mongoose-auth.git"
+  },
+  "author": "guigaib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuiGaIb/mongodb-mongoose-auth/issues"
+  },
+  "homepage": "https://github.com/GuiGaIb/mongodb-mongoose-auth#readme",
+  "dependencies": {
+    "db-ts-mongoose": "file:../db-ts-mongoose"
+  },
+  "devDependencies": {
+    "dev-journal": "file:../dev-journal"
+  }
+}
